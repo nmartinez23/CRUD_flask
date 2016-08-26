@@ -1,4 +1,4 @@
-# CRUD User List App
+# Python CRUD User List App
 
 My code in this repo is from the Codementor.io 4 week course I took in May 2016.
 
